@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/LifeFlow.API/LifeFlow.API.csproj" Id="1fab435f-1958-4ee5-bfe4-9fb85e14f5d0" />
+  <Project Path="src/LifeFlow.Application/LifeFlow.Application.csproj" Id="e9f6a056-fcfb-4caf-8135-5986b3b8840a" />
+  <Project Path="src/LifeFlow.Domain/LifeFlow.Domain.csproj" Id="e8dcdde7-652d-4062-89e3-ff40301b2f59" />
+  <Project Path="src/LifeFlow.Infrastructure/LifeFlow.Infrastructure.csproj" Id="583caaad-c4c6-4a9d-8e80-91942128d0b8" />
+</Solution>
